@@ -16,4 +16,4 @@ Identify a meliante number ( whenever 171 appears )
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[DTesch](https://github.com/Dtesch/dtesch9.github.io)
+[MIT](https://choosealicense.com/licenses/mit/)
