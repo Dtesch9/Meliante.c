@@ -1,7 +1,6 @@
-# Foobar
+# MELIANTE
 
-Foobar is a Python library for dealing with word pluralization.
-
+MELIANTE is how a specifically number is called. 
 ## Installation
 
 none
@@ -11,7 +10,7 @@ none
 ```
 
 ## Usage
-Identify a meliante number ( whenever 171 apears )
+Identify a meliante number ( whenever 171 appears )
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
